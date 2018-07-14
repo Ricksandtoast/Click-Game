@@ -26,7 +26,7 @@ const TopBar = props => (
 
    <Grid.Column textalign = {"center"}>
   <Header style = {styles} inverted  as ={"h2"} textAlign = {"center"}>
-    Current score: {props.score} | Top Score: {props.TopScore}
+    Current score: {props.score} | Top Score: {props.topScore}
   </Header>
   
   </Grid.Column>

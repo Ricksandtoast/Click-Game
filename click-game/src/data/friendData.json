@@ -2,22 +2,22 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/beth.png",
+    "image":"../assets/images/rick.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/birdperson.png",
+    "image":"../assets/images/beth.png" ,
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/evilmorty.png",
+    "image": "../assets/images/evilmorty.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/gianthead.png",
+    "image": "../assets/images/gianthead.png",
     "clicked": false
   },
   {
@@ -27,12 +27,12 @@
   },
   {
     "id": 6,
-    "image": "/assets/images/jerry.png",
+    "image": "./assets/images/jerry.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/jessica.png",
+    "image": "./assets/images/jessica.png",
     "clicked": false
   },
   {
@@ -52,7 +52,7 @@
   },
   {
     "id": 11,
-    "image": "/assets/images/rick.png",
+    "image": "/assets/images/birdperson.png",
     "clicked": false
   },
   {
