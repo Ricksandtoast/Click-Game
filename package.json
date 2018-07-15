@@ -1,0 +1,23 @@
+{
+  "name": "Click-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricksandtoast/Click-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricksandtoast/Click-Game/issues"
+  },
+  "homepage": "https://github.com/Ricksandtoast/Click-Game#readme",
+  "dependencies": {
+    "semantic-ui-react": "^0.82.0"
+  }
+}
