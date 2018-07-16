@@ -9,12 +9,12 @@
     "semantic-ui-react": "^0.82.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "heroku-prebuild": "cd client && yarn install",
-    "heroku-postbuild": "node scripts/build.js",
+    "heroku-postbuild": "node scripts/build.js"
 
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
